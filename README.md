@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>BIODATA DIRI</title>
 </head>
 <body>
 <h1 align="center">BIODATA DIRI</h1>
